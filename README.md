@@ -2,18 +2,20 @@
 
 ## 🚀 Who Am I?
 
-I'm a Software Engineering student with a background in Electronics and Embedded Systems.
+I'm an aspiring Cybersecurity Engineer with a background in Electronics and Embedded Systems.
 
-I'm passionate about Cybersecurity, Penetration Testing, Network Security, and Secure Software Development. I enjoy building practical projects, learning new technologies, and improving my technical skills through hands-on experience.
+Currently pursuing my studies in Cybersecurity, I continuously improve my skills in penetration testing, SOC operations, network security, cloud security and security automation.
+
+I enjoy learning new technologies, solving security challenges, and building practical projects that strengthen my technical expertise. My multidisciplinary background allows me to understand both hardware and software aspects of modern systems.
 
 ---
 
 ## 🔭 What Am I Currently Working On?
 
 - Developing CyberPent Pro, an automated internal penetration testing tool.
-- Learning advanced Cybersecurity concepts.
+- Expanding my knowledge in cybersecurity and security operations.
 - Improving my skills in Python, Linux, and Network Security.
-- Exploring Cloud Security and Security Automation.
+- Exploring SOC practices and security automation.
 
 ---
 
@@ -34,27 +36,30 @@ I'm passionate about Cybersecurity, Penetration Testing, Network Security, and S
 
 ### Cloud & DevOps
 - AWS
-- Git
-- GitHub
+- Terraform
+- Git / GitHub
+
+### Containerization
+- Docker
 
 ### Operating Systems
 - Linux
 - Ubuntu
 - Windows
+- MacOS
 
 ---
 
 ## 📫 How To Reach Me?
 
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/aya-nasr-876aa5222/
+- GitHub: https://github.com/ayanas1234
 
 ---
 
 ## 🎯 Current Goal
 
-To become a skilled Cybersecurity Engineer specializing in Penetration Testing, Security Automation, and Cloud Security.
+To become a Cybersecurity Engineer specializing in Security Operations (SOC), Penetration Testing, Security Automation, and Cloud Security.
 <!--
 **ayanas1234/ayanas1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
