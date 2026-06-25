@@ -1,4 +1,4 @@
-# Hi, I'm Aya Nasr 👋
+# Hi, I'm Aya NASR 👋
 
 ## 🚀 Who Am I?
 
